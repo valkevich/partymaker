@@ -1,1 +1,1 @@
-<a src='https://valkevich.github.io/partymaker/'>tap tap ;)</a>
+<a href='https://valkevich.github.io/partymaker/'>tap tap ;)</a>
